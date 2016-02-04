@@ -1,0 +1,10 @@
+PODS:
+  - BonMot (2.2)
+
+DEPENDENCIES:
+  - BonMot (~> 2.2)
+
+SPEC CHECKSUMS:
+  BonMot: 317b07975cdd0ca8bce0943750fb366b3dd85a49
+
+COCOAPODS: 0.39.0
